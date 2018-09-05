@@ -1,0 +1,15 @@
+#LWP-Cookies-2.0
+Set-Cookie3: _de=6E66FE91587D5C8335A91444AB770AB7; path="/"; domain=".renren.com"; path_spec; domain_dot; expires="2019-08-15 11:05:33Z"; version=0
+Set-Cookie3: anonymid="jl26cd4m-c8enzf"; path="/"; domain=".renren.com"; path_spec; domain_dot; expires="2023-08-19 11:05:33Z"; version=0
+Set-Cookie3: first_login_flag=1; path="/"; domain=".renren.com"; path_spec; discard; version=0
+Set-Cookie3: id=967457216; path="/"; domain=".renren.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: ln_hurl="http://head.xiaonei.com/photos/0/0/men_main.gif"; path="/"; domain=".renren.com"; path_spec; expires="2018-09-19 11:05:33Z"; version=0
+Set-Cookie3: ln_uact=13979068674; path="/"; domain=".renren.com"; path_spec; expires="2018-09-19 11:05:33Z"; version=0
+Set-Cookie3: loginfrom=null; path="/"; domain=".renren.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: p=733821d95f9c20cf718a4232461d67ce6; path="/"; domain=".renren.com"; path_spec; discard; version=0
+Set-Cookie3: societyguester=f6be7a119832dd80f7f70b6c32b7b7df6; path="/"; domain=".renren.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: t=f6be7a119832dd80f7f70b6c32b7b7df6; path="/"; domain=".renren.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: ver="7.0"; path="/"; domain=".renren.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: xnsid=a8fd146c; path="/"; domain=".renren.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: t=98df7be58329c8d6af2c1df1717b69bb; path="/xtalk/"; domain=".renren.com"; path_spec; discard; version=0
+Set-Cookie3: JSESSIONID=abcAEww_F72ZweXYUaxvw; path="/"; domain="www.renren.com"; path_spec; discard; version=0
